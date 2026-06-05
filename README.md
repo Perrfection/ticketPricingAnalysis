@@ -1,6 +1,5 @@
-# Flight Pricing Analysis (Indian Airline Carriers 2022)
+# Understanding the Primary Drivers of Airline Ticket Prices (Indian Airline Carriers 2022)
 
-Understanding the Primary Drivers of Airline Ticket Prices
 ![indian carrier plane tails](visuals/planes.jpeg)
 
 
